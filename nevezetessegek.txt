@@ -1,2 +1,5 @@
-Görögország;Santorini;3500 évvel ezelőtt
-Görögország;Meteorák;
+Görögország;Santorini;3500 évvel ezelőtt.
+Görögország;Meteorák;XIV. században épült.
+Görögország;A Delphoi színház;2500 évvel korábban.
+Görögország;Knósszosz-i Minoan palota;i. e. 2000-1600 között jött létre.
+Görögország;Korfu Akhilleion, Sissi kastély;magyar királyné építtetett 1890-ben.
